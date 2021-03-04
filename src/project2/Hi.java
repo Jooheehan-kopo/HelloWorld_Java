@@ -7,6 +7,7 @@ public class Hi {
 		System.out.println("hi, there");
 		System.out.println("bye!");
 		System.out.println("ok!");
+		System.out.println("yes!");
 			   
 	}
 
